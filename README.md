@@ -3,7 +3,7 @@
 I'm a detail-oriented, good leader, enthusiastic, and naturally curious computer engineering student. I demonstrated leadership by serving as the project lead for a government-funded project and the headboy at my school. I'm a proactive learner passionate about developing optimized solutions that enhance user experience. I am proficient in Java, C/C++, JavaScript programming languages, and SQL. On the web development side, I’m proficient in frameworks like NextJS and ReactJS.  
 
 ### 🎓 Education
-I am in my third year pursuing a BTech in Computer Engineering at Vishwakarma Institute of Information Technology, Pune, with a CGPA of 8.62 out of 10.  
+I am in my fourth year pursuing a BTech in Computer Engineering at Vishwakarma Institute of Information Technology, Pune, with a CGPA of 8.8 out of 10.  
 Before that, I completed a diploma in Computer Engineering after my 10th standard from Government Polytechnic Solapur. I finished schooling at St. Joseph High School, Solapur - a convent school.  
 
 ### 💼 Experience
