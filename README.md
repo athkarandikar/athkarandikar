@@ -1,4 +1,4 @@
-## 👋🏻 Hi there, I'm Atharva Karandikar.  
+## 👋🏻 Hi there, I'm Atharva Karandikar  
 ### 🧠 Summary
 I'm a detail-oriented, good leader, enthusiastic, and naturally curious computer engineering student. I demonstrated leadership by serving as the project lead for a government-funded project and the headboy at my school. I'm a proactive learner passionate about developing optimized solutions that enhance user experience. I am proficient in Java, C/C++, JavaScript programming languages, and SQL. On the web development side, I’m proficient in frameworks like NextJS and ReactJS.  
 
