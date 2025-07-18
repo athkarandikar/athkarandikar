@@ -7,7 +7,7 @@ I am in my fourth year pursuing a BTech in Computer Engineering at Vishwakarma I
 Before that, I completed a diploma in Computer Engineering after my 10th standard from Government Polytechnic Solapur. I finished schooling at St. Joseph High School, Solapur - a convent school.  
 
 ### 💼 Experience
-- I am a software developer intern at Wolters Kluwer.
+- I am a Software Developer Intern at Wolters Kluwer.
 - I served as the project lead for a government-funded project.
 - I was a technical team member at the coding forum at my college.    
 
